@@ -1,0 +1,37 @@
+[ 
+    {   
+      "id": 1,   
+      "nombre": "Pan de Centeno",    
+      "precio": 1.50,    
+      "img": "https://w7.pngwing.com/pngs/431/692/png-transparent-sourdough-rye-bread-graham-bread-soda-bread-bakery-bread-baked-goods-food-baking-thumbnail.png",  
+      "cantidad": 1
+    }, 
+    {    
+      "id": 2,   
+      "nombre": "Pan de Ajo",    
+      "precio": 2,    
+      "img": "https://w7.pngwing.com/pngs/665/378/png-transparent-garlic-bread-breakfast-baguette-bakery-toast-delicious-garlic-bread-baked-goods-food-baking-thumbnail.png",
+      "cantidad": 1
+    },
+    {    
+      "id": 3,    
+      "nombre": "Pan Pita",    
+      "precio": 2.50,    
+      "img": "https://w7.pngwing.com/pngs/264/341/png-transparent-pita-bakery-naan-murtabak-afghan-bread-bread-baked-goods-food-baker-thumbnail.png",  
+      "cantidad": 1
+    }, 
+    {    
+      "id": 4,    
+      "nombre": "Pan dulce de crema",    
+      "precio": 3,    
+      "img": "https://w7.pngwing.com/pngs/730/695/png-transparent-pan-dulce-cream-bun-bread-rusk-cream-baked-goods-food-thumbnail.png",  
+      "cantidad": 1
+    },  
+    {    
+      "id": 5,    
+      "nombre": "Croissant",    
+      "precio": 3.50,    
+      "img": "https://w7.pngwing.com/pngs/65/663/png-transparent-kifli-croissant-french-cuisine-baguette-viennoiserie-croissant-baked-goods-food-cheese-thumbnail.png", 
+      "cantidad": 1 
+    }
+  ]
